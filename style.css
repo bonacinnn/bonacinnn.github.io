@@ -1,0 +1,223 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #213635;
+}
+
+
+header {
+    background-color: #348e91;
+    padding: 15px;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+header.daltonismo{
+    background-color: #369134;
+    padding: 15px;
+    text-align: center;
+    color: #f2f2f2;
+}
+
+header button{
+    background-color: #1c5052;
+    color: #f2f2f2;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+header button.daltonismo{
+    background-color: #1c521e;
+    color: #f2f2f2;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+  
+nav {
+    background-color: #1c5052;
+    padding: 10px;
+    text-align: center;
+}
+
+nav.daltonismo {
+    background-color: #1c5226;
+    padding: 10px;
+    text-align: center;
+}
+  
+nav a {
+    margin: 0 15px;
+    color: #f2f2f2;
+    text-decoration: none;
+    font-weight: bold;
+}
+  
+section {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+  
+footer {
+    background-color: #1c5052;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer.daltonismo {
+    background-color: #1c5226;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  
+footer p {
+    color: #f2f2f2;
+}
+
+
+section h2 {
+    color: #1c5052;
+}
+
+section h2.daltonismo {
+    color: #20521c;
+}
+
+section h3 {
+    color: #1c5052;
+}
+
+section h3.daltonismo {
+    color: #1c5222;
+}
+
+section p {
+    color: #213635;
+}
+
+section p.daltonismo {
+    color: #223621;
+}
+
+
+section a {
+    color: #348e91;
+    text-decoration: underline;
+}
+
+section a.daltonismo {
+    color: #379134;
+    text-decoration: underline;
+}
+
+section a:hover {
+    text-decoration: none;
+}
+
+
+section article {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+}
+
+section article.daltonismo {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+}
+
+section article h3 {
+    color: #1c5052;
+}
+
+section article h3.daltonismo {
+    color: #1d521c;
+}
+
+section article p {
+    color: #213635;
+}
+
+section article p.daltonismo {
+    color: #223621;
+}
+
+form {
+    margin: 20px auto;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+form input, form textarea {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #1c5052;
+    border-radius: 3px;
+}
+
+form input.daltonismo, form textarea.daltonismo {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #1c521e;
+    border-radius: 3px;
+}
+
+form button {
+    background-color: #1c5052;
+    color: #f2f2f2;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+form button.daltonismo {
+    background-color: #1f521c;
+    color: #f2f2f2;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+form button:hover {
+    background-color: #0a0c0d;
+}
+
+
+/* 
+
+color1  #f2f2f2 ;
+color2  #348e91 ;
+color3  #1c5052 ;
+color4  #213635 ;
+color5  #0a0c0d ; 
+
+*/
+
